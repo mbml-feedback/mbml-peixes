@@ -1,0 +1,113 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 429
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 15
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 5
+	Date: 2017-12-07 ; Times: 3
+	Date: 2017-12-20 ; Times: 8
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 42
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Helicolenus dactylopterus mappable:1" ; Times: 1
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "Harengula jaguana" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "potamotrygon motoro" ; Times: 3
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "mnrj" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "Chromis jubauna mappable:1" ; Times: 1
+	Query: "Mullus argentinae" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 1
+	Query: "Eucinostomus melanopterus" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 4
+	Query: "Aulostomus strigosus mappable:1" ; Times: 2
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "pygocentrus nattereri" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Chromis jubauna" ; Times: 1
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 674 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "potamotrygon motoro" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "potamotrygonidae" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+
+
+End of report.
