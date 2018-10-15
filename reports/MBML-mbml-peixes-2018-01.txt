@@ -1,0 +1,116 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1119
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 63
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 20
+	Date: 2018-01-26 ; Times: 4
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-17 ; Times: 60
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-10 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus" ; Times: 2
+	Query: "Stegastes sp. mappable:1" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 2
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "Stegastes trindadensis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "Stegastes variabilis" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 2
+	Query: "Chromis multilineata mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Stegastes pictus" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "dasyatis americana" ; Times: 1
+	Query: "Stegastes fuscus mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Centropomus parallelus" ; Times: 2
+	Query: "haemulon steindachneri" ; Times: 2
+	Query: "Microphis lineatus" ; Times: 2
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "Stegastes pictus mappable:1" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 2
+	Query: "Harengula jaguana" ; Times: 2
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Chromis jubauna" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "Chromis jubauna mappable:1" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Metynnis lippincottianus" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 2
+	Query: "Chromis multilineata" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 2
+	Query: "Eucinostomus melanopterus" ; Times: 2
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 2
+	Query: "Oligoplites saurus" ; Times: 2
+	Query: "Stegastes sp." ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 2
+	Query: "oreochromis niloticus" ; Times: 2
+	Query: "Jenynsia lineata" ; Times: 2
+	Query: "Chaetodipterus faber" ; Times: 2
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Stegastes rocasensis" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 2
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "Stegastes rocasensis mappable:1" ; Times: 1
+	Query: "sui" ; Times: 4
+	Query: "Microspathodon chrysurus" ; Times: 2
+	Query: "Parachromis managuensis" ; Times: 2
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Mugil curema" ; Times: 2
+	Query: "Stegastes fuscus" ; Times: 1
+	Query: "Stegastes trindadensis" ; Times: 1
+	Query: "JGO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1398 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+
+
+End of report.
