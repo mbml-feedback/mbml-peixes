@@ -1,0 +1,61 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 333
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 5
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Caquetaia" ; Times: 1
+	Query: "genus:Australoheros" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Brazil hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "atlantoraja castelnaui" ; Times: 2
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "specificepithet:muriae genus:Australoheros" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae institutioncode:MBML" ; Times: 1
+	Query: "guar" ; Times: 1
+	Query: "Trichomycterus immaculatus" ; Times: 1
+	Query: "Trichomycterus itacambirussu" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:capixaba genus:Australoheros" ; Times: 2
+	Query: "specificepithet:capixaba genus:Australoheros family:Cichlidae institutioncode:MBML" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1178 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
