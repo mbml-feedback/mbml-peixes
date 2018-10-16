@@ -1,0 +1,107 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1926
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 171
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 24
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 21
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 34
+	Date: 2018-03-27 ; Times: 33
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 10
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 24
+	Date: 2018-03-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gobiesox specificepithet:strumosus" ; Times: 5
+	Query: "serrasalmus marginatus" ; Times: 1
+	Query: "genus:Triportheus specificepithet:elongatus" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:marginatus" ; Times: 5
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "genus:Serrasalmus specificepithet:maculatus" ; Times: 5
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "genus:Labrisomus specificepithet:nuchipinnis" ; Times: 5
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:spengleri" ; Times: 5
+	Query: "Monocirrhus polyacanthus" ; Times: 2
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 2
+	Query: "genus:Anostomus specificepithet:sp " ; Times: 2
+	Query: "genus:Poecilia specificepithet:reticulata" ; Times: 5
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 5
+	Query: "genus:Melichthys specificepithet:niger" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:rhombeus" ; Times: 5
+	Query: "genus:Leporinus specificepithet:taeniatus" ; Times: 5
+	Query: "genus:Leporinus specificepithet:fasciatus" ; Times: 5
+	Query: "genus:Achirus specificepithet:lineatus" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:spilopleura" ; Times: 5
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 5
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Charax" ; Times: 4
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 5
+	Query: "Hoplosternum littorale 1" ; Times: 1
+	Query: "genus:Acanthostracion specificepithet:quadricornis" ; Times: 5
+	Query: "haemulon steindachneri" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:brandtii" ; Times: 5
+	Query: "genus:Pygocentrus specificepithet:piraya" ; Times: 5
+	Query: "phalloceros caudimaculatus" ; Times: 1
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 5
+	Query: "genus:Lagocephalus specificepithet:laevigatus" ; Times: 5
+	Query: "genus:Pygocentrus specificepithet:nattereri" ; Times: 5
+	Query: "specificepithet:pridisi genus:Elacatinus" ; Times: 2
+	Query: "genus:Corydoras specificepithet:sp." ; Times: 5
+	Query: "genus:Malacoctenus specificepithet:triangulatus" ; Times: 5
+	Query: "Hyphessobrycon bifasciatus" ; Times: 1
+	Query: "genus:Exodon specificepithet:paradoxus" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "Cichla ocellaris 1" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:testudineus" ; Times: 5
+	Query: "genus:Rhamdia specificepithet:quelen" ; Times: 5
+	Query: "genus:Thalassophryne specificepithet:nattereri" ; Times: 5
+	Query: "genus:Elops specificepithet:saurus" ; Times: 5
+	Query: "genus:Kryptolebias" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:figueiredoi" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Monocirrhus polyacanthus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
