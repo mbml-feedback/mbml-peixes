@@ -1,0 +1,112 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 486
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 64
+	Country: United States ; Times: 48
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-13 ; Times: 10
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-19 ; Times: 46
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 24
+	Date: 2018-06-20 ; Times: 20
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "catalognumber:7501 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7055 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:469 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7343 institutioncode:MBML" ; Times: 2
+	Query: "mylesinus" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "catalognumber:6689 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7315 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:1619 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:6933 institutioncode:MBML" ; Times: 2
+	Query: "Chaetodon mata mappable:1" ; Times: 2
+	Query: "catalognumber:7602 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2680 institutioncode:MBML" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "specificepithet:capixaba genus:Australoheros family:Cichlidae" ; Times: 1
+	Query: "catalognumber:7477 institutioncode:MBML" ; Times: 2
+	Query: "11605" ; Times: 1
+	Query: "specificepithet:muriae genus:Australoheros family:Cichlidae" ; Times: 1
+	Query: "catalognumber:1916 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7053 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2580 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:6908 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7344 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:6825 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:3245 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7508 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7534 institutioncode:MBML" ; Times: 2
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "catalognumber:375 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7132 institutioncode:MBML" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "catalognumber:2777 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7596 institutioncode:MBML" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "catalognumber:7662 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7630 institutioncode:MBML" ; Times: 2
+	Query: "JAGUAR" ; Times: 1
+	Query: "catalognumber:7492 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7504 institutioncode:MBML" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "catalognumber:6910 institutioncode:MBML" ; Times: 2
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "catalognumber:2094 institutioncode:MBML" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Chaetodon mata" ; Times: 1
+	Query: "catalognumber:1866 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2120 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7178 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7058 institutioncode:MBML" ; Times: 2
+	Query: "Trichomycterus pantherinus" ; Times: 2
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1169 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "Prochilodus lineatus" ; Times: 1
+
+
+End of report.
