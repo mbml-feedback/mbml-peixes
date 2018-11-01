@@ -1,0 +1,98 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 926
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 33
+	Country: Venezuela ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 9
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 12
+	Date: 2018-10-09 ; Times: 4
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "nezumia atlantica" ; Times: 1
+	Query: "Marilândia ES" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "catalognumber:820 institutioncode:MBML" ; Times: 1
+	Query: "UFES" ; Times: 2
+	Query: "Microphis lineatus mappable:1" ; Times: 1
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Aulostomus strigosus" ; Times: 1
+	Query: "Acanthostracion polygonius" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "Paradiplogrammus bairdi mappable:1" ; Times: 2
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Micrognathus crinitus mappable:1" ; Times: 1
+	Query: "Itaguaçu ES" ; Times: 1
+	Query: "Chaetodon ocellatus" ; Times: 1
+	Query: "Baixo Guandu ES" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Minas Gerais&#34; Rio Doce" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Aulostomus strigosus mappable:1" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 3
+	Query: "Dasyatis guttata" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Governador Valadares MG" ; Times: 1
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Aimorés MG" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Minas Gerais&#34; Governador Valadares" ; Times: 1
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Linhares ES" ; Times: 3
+	Query: "Colatina ES" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Pseudophallus mindii mappable:1" ; Times: 1
+	Query: "Micrognathus crinitus" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 2
+	Query: "Paradiplogrammus bairdi" ; Times: 2
+	Query: "Baixo Guandu MG" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1300 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Astronotus ocellatus" ; Times: 1
+
+
+End of report.
