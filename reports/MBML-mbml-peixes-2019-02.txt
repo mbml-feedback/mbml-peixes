@@ -1,0 +1,133 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 1070
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 10
+	Country: France ; Times: 177
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-24 ; Times: 5
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 126
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-28 ; Times: 57
+	Date: 2019-02-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Harengula clupeola mappable:1" ; Times: 11
+	Query: "Anchovia clupeoides mappable:1" ; Times: 2
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Hyphessobrycon eques" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 4
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Lutjanus vivanus mappable:1" ; Times: 1
+	Query: "Chromis multilineata mappable:1" ; Times: 1
+	Query: "jequié" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 3
+	Query: "Malacoctenus versicolor mappable:1" ; Times: 1
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "Epinephelus morio mappable:1" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "Phalloptychus" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 6
+	Query: "Bodianus pulchellus mappable:1" ; Times: 2
+	Query: "Gobioides broussonnetii mappable:1" ; Times: 4
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 2
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "peixes cavalcante" ; Times: 1
+	Query: "Cichla kelberi mappable:1" ; Times: 4
+	Query: "Scartella cristata mappable:1" ; Times: 3
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "Anchoa lyolepis mappable:1" ; Times: 6
+	Query: "Alphestes afer mappable:1" ; Times: 1
+	Query: "Ophichthus ophis mappable:1" ; Times: 2
+	Query: "Strongylura timucu mappable:1" ; Times: 10
+	Query: "Parablennius marmoreus mappable:1" ; Times: 5
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Holacanthus tricolor mappable:1" ; Times: 1
+	Query: "catalognumber:2242 institutioncode:MBML" ; Times: 1
+	Query: "myleus micans" ; Times: 2
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "Chirocentrodon bleekerianus mappable:1" ; Times: 2
+	Query: "Polydactylus virginicus mappable:1" ; Times: 3
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 3
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Prochilodus hartii" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "Epinephelus itajara mappable:1" ; Times: 1
+	Query: "Symphurus tessellatus mappable:1" ; Times: 5
+	Query: "Mugil curvidens mappable:1" ; Times: 4
+	Query: "Phalloceros" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Cichla piquiti mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "Micrognathus crinitus mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+	Query: "Pamphorichthys" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 2
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Prochilodus vimboides" ; Times: 1
+	Query: "Phallotorynus" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "Chaetodipterus faber mappable:1" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 18
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 2
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Bothus lunatus mappable:1" ; Times: 3
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "Symphurus plagusia mappable:1" ; Times: 5
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1227 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Pamphorichthys" ; Times: 1
+	Query: "Phalloceros" ; Times: 1
+	Query: "Phalloptychus" ; Times: 1
+	Query: "Phallotorynus" ; Times: 1
+
+
+End of report.
