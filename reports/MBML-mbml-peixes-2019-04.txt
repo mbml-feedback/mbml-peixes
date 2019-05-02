@@ -1,0 +1,152 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 2287
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Brazil ; Times: 124
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 118
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:821 institutioncode:MBML" ; Times: 1
+	Query: "Cynoscion virescens mappable:1" ; Times: 2
+	Query: "Prochilodus lineatus mappable:1" ; Times: 1
+	Query: "Astyanax intermedius mappable:1" ; Times: 1
+	Query: "Macrodon ancylodon mappable:1" ; Times: 2
+	Query: "Paralichthys brasiliensis mappable:1" ; Times: 1
+	Query: "Pseudauchenipterus affinis mappable:1" ; Times: 2
+	Query: "Hyphessobrycon eques mappable:1" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "catalognumber:5241 institutioncode:MBML" ; Times: 1
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "oreochromis niloticus" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Knodus moenkhausii mappable:1" ; Times: 1
+	Query: "Loricariichthys castaneus mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Emblemariopsis occidentalis" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "Crenicichla lacustris mappable:1" ; Times: 1
+	Query: "Genidens barbus mappable:1" ; Times: 2
+	Query: "Isopisthus parvipinnis mappable:1" ; Times: 2
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "Anchoa tricolor mappable:1" ; Times: 2
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Pygocentrus piraya mappable:1" ; Times: 1
+	Query: "Aspistor luniscutis mappable:1" ; Times: 2
+	Query: "catalognumber:532 institutioncode:MBML" ; Times: 1
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Emblemariopsis occidentalis mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "Notarius grandicassis mappable:1" ; Times: 2
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "Hoplias brasiliensis mappable:1" ; Times: 1
+	Query: "Hoplias intermedius mappable:1" ; Times: 1
+	Query: "Eugerres brasilianus mappable:1" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Vilhena" ; Times: 1
+	Query: "Delturus carinotus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Serrasalmus marginatus mappable:1" ; Times: 1
+	Query: "Prochilodus vimboides mappable:1" ; Times: 1
+	Query: "Stellifer brasiliensis mappable:1" ; Times: 2
+	Query: "Hypostomus affinis mappable:1" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "Leporinus copelandii mappable:1" ; Times: 1
+	Query: "salminus hilarii" ; Times: 1
+	Query: "Pellona harroweri mappable:1" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Cynoscion leiarchus mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Oligosarcus argenteus mappable:1" ; Times: 1
+	Query: "Ophioscion punctatissimus mappable:1" ; Times: 2
+	Query: "10313" ; Times: 1
+	Query: "Trachelyopterus striatulus mappable:1" ; Times: 1
+	Query: "Lycengraulis grossidens mappable:1" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Zapteryx brevirostris mappable:1" ; Times: 1
+	Query: "Genidens genidens mappable:1" ; Times: 2
+	Query: "Nebris microps mappable:1" ; Times: 2
+	Query: "Symphurus tessellatus mappable:1" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Metynnis lippincottianus mappable:1" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Pachyurus adspersus mappable:1" ; Times: 1
+	Query: "Oligosarcus acutirostris mappable:1" ; Times: 1
+	Query: "Steindachnerina elegans mappable:1" ; Times: 1
+	Query: "Hyphessobrycon bifasciatus mappable:1" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "Pygocentrus nattereri mappable:1" ; Times: 1
+	Query: "Atherinella brasiliensis mappable:1" ; Times: 2
+	Query: "Serranus flaviventris mappable:1" ; Times: 1
+	Query: "Coptodon rendalli mappable:1" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "Brumadinho" ; Times: 3
+	Query: "catalognumber:10532 institutioncode:MBML" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "salminus" ; Times: 3
+	Query: "catalognumber:8552 institutioncode:MBML" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1263 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clarias gariepinus" ; Times: 1
+
+
+End of report.
