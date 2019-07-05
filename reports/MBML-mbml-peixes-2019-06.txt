@@ -1,0 +1,175 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 274
+Number of records retrieved in searches: 2068
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 108
+	Country: Brazil ; Times: 3
+	Country: New Zealand ; Times: 12
+	Country: France ; Times: 151
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 3
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-25 ; Times: 8
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-27 ; Times: 6
+	Date: 2019-06-02 ; Times: 133
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 68
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-30 ; Times: 6
+	Date: 2019-06-01 ; Times: 17
+	Date: 2019-06-10 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aluterus specificepithet:monoceros" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:marginatus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 2
+	Query: "genus:Labrisomus specificepithet:nuchipinnis" ; Times: 1
+	Query: "genus:Exocoetus specificepithet:volitans" ; Times: 1
+	Query: "genus:Triportheus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Poecilia specificepithet:reticulata" ; Times: 1
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 1
+	Query: "genus:Melichthys specificepithet:niger" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 9
+	Query: "genus:Glanidium specificepithet:albescens" ; Times: 1
+	Query: "genus:Scartella specificepithet:cristata" ; Times: 1
+	Query: "genus:Parona specificepithet:signata" ; Times: 1
+	Query: "genus:Leporinus specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Pygocentrus specificepithet:piraya" ; Times: 1
+	Query: "genus:Echiophis specificepithet:intertinctus" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:maculatus" ; Times: 1
+	Query: "genus:Astronotus specificepithet:ocellatus" ; Times: 1
+	Query: "Zapteryx brevirostris" ; Times: 2
+	Query: "genus:Etropus specificepithet:crossotus" ; Times: 1
+	Query: "genus:Corydoras specificepithet:sp." ; Times: 2
+	Query: "genus:Halichoeres specificepithet:maculipinna" ; Times: 1
+	Query: "jaguar" ; Times: 4
+	Query: "Myripristis jacobus mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 4
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 2
+	Query: "genus:Steatogenys specificepithet:elegans" ; Times: 1
+	Query: "genus:Diplectrum specificepithet:formosum" ; Times: 1
+	Query: "genus:Dibranchus specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Myrophis specificepithet:punctatus" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:spengleri" ; Times: 1
+	Query: "genus:Anoplogaster specificepithet:cornuta" ; Times: 1
+	Query: "Bodianus pulchellus mappable:1" ; Times: 2
+	Query: "genus:Callichthys specificepithet:callichthys" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 9
+	Query: "genus:Echeneis specificepithet:naucrates" ; Times: 1
+	Query: "genus:Thalassophryne specificepithet:nattereri" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:rhombeus" ; Times: 1
+	Query: "genus:Achirus specificepithet:lineatus" ; Times: 1
+	Query: "genus:Acanthostracion specificepithet:quadricornis" ; Times: 1
+	Query: "genus:Myripristis specificepithet:jacobus" ; Times: 1
+	Query: "genus:Ahlia specificepithet:egmontis" ; Times: 1
+	Query: "genus:Gobio specificepithet:gobio" ; Times: 1
+	Query: "genus:Elops specificepithet:saurus" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 8
+	Query: "genus:Hippocampus specificepithet:reidi" ; Times: 1
+	Query: "C. O. Reis" ; Times: 1
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 1
+	Query: "genus:Lagocephalus specificepithet:laevigatus" ; Times: 1
+	Query: "genus:Diodon specificepithet:holocanthus" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 9
+	Query: "genus:Malacoctenus specificepithet:triangulatus" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "Saccopharynx" ; Times: 1
+	Query: "genus:Coryphopterus specificepithet:glaucofraenum" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 2
+	Query: "Mulloidichthys martinicus" ; Times: 8
+	Query: "genus:Pygocentrus specificepithet:nattereri" ; Times: 1
+	Query: "genus:Ocyurus specificepithet:chrysurus" ; Times: 1
+	Query: "genus:Gobiesox specificepithet:strumosus" ; Times: 1
+	Query: "genus:Cryptotomus specificepithet:roseus" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:poeyi" ; Times: 1
+	Query: "genus:Naucrates specificepithet:ductor" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 9
+	Query: "genus:Anostomus specificepithet:sp " ; Times: 1
+	Query: "genus:Wertheimeria specificepithet:maculata" ; Times: 1
+	Query: "genus:Gobioides specificepithet:broussonnetii" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 9
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 8
+	Query: "genus:Leporinus specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "genus:Rachycentron specificepithet:canadum" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 9
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 8
+	Query: "genus:Fistularia specificepithet:tabacaria" ; Times: 1
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 8
+	Query: "genus:Diapterus specificepithet:auratus" ; Times: 1
+	Query: "genus:Nicholsina specificepithet:usta" ; Times: 1
+	Query: "genus:Gephyroberyx specificepithet:darwinii" ; Times: 1
+	Query: "genus:Poecilia specificepithet:vivipara" ; Times: 1
+	Query: "genus:Chloroscombrus specificepithet:chrysurus" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 2
+	Query: "genus:Sphoeroides specificepithet:testudineus" ; Times: 1
+	Query: "genus:Rhamdia specificepithet:quelen" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 7
+	Query: "genus:Pomacanthus specificepithet:arcuatus" ; Times: 1
+	Query: "genus:Astroscopus specificepithet:y-graecum" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 4
+	Query: "genus:Harttia specificepithet:loricariformis" ; Times: 1
+	Query: "genus:Hoplias specificepithet:malabaricus" ; Times: 1
+	Query: "genus:Equetus specificepithet:lanceolatus" ; Times: 1
+	Query: "genus:Doratonotus specificepithet:megalepis" ; Times: 1
+	Query: "genus:Chlorophthalmus specificepithet:agassizi" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 2
+	Query: "genus:Eucinostomus specificepithet:argenteus" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "genus:Doras specificepithet:sp." ; Times: 1
+	Query: "genus:Canthigaster specificepithet:figueiredoi" ; Times: 1
+	Query: "genus:Neoplecostomus specificepithet:microps" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 2
+	Query: "genus:Serrasalmus specificepithet:spilopleura" ; Times: 1
+	Query: "genus:Decodon specificepithet:puellaris" ; Times: 1
+	Query: "genus:Gymnotus specificepithet:carapo" ; Times: 1
+	Query: "genus:Otothyris specificepithet:lophophanes" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Bathygobius specificepithet:soporator" ; Times: 1
+	Query: "Atlantoraja castelnaui" ; Times: 2
+	Query: "genus:Serrasalmus specificepithet:brandtii" ; Times: 1
+	Query: "genus:Exodon specificepithet:paradoxus" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 9
+	Query: "Haemulon parra mappable:1" ; Times: 4
+	Query: "Melichthys niger mappable:1" ; Times: 9
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 9
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Ouro Preto" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 2
+	Query: "genus:Albula specificepithet:vulpes" ; Times: 1
+	Query: "Anodus elongatus" ; Times: 2
+	Query: "genus:Parachromis specificepithet:managuensis" ; Times: 1
+	Query: "genus:Halichoeres specificepithet:bivittatus" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 4
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1182 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "jaguar" ; Times: 2
+
+
+End of report.
