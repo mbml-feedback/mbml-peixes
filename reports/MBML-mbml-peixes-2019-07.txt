@@ -1,0 +1,71 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 461
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 8
+	Country: Panama ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 17
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 6
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "Cichla kelberi mappable:1" ; Times: 1
+	Query: "taquara" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "cabuçu" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "cabucu" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "genus:Parotocinclus specificepithet:maculicauda" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "Mata fria" ; Times: 1
+	Query: "Clepticus" ; Times: 1
+	Query: "genus:Chirocentrodon specificepithet:bleekerianus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "LM 1143" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "bom sucesso" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "galvão" ; Times: 2
+	Query: "genus:Aspidoras" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 985 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
