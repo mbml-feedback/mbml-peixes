@@ -1,0 +1,144 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 1192
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 52
+	Country: France ; Times: 52
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 7
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-05 ; Times: 57
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 9
+	Date: 2019-08-08 ; Times: 39
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 7
+	Date: 2019-08-30 ; Times: 5
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Neoplecostomus microps" ; Times: 1
+	Query: "Pimelodus maculatus" ; Times: 1
+	Query: "Compsura heterura" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "Prochilodus argenteus" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 7
+	Query: "Neoplecostomus espiritosantensis" ; Times: 1
+	Query: "Microglanis cottoides" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 1
+	Query: "Microglanis leptostriatus" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "Piabina argentea" ; Times: 1
+	Query: "Hypostomus affinis" ; Times: 1
+	Query: "Leporinus piau" ; Times: 1
+	Query: "Halichoeres cyanocephalus mappable:1" ; Times: 1
+	Query: "joao pinheiro" ; Times: 1
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "Pellona flavipinnis" ; Times: 1
+	Query: "DASYATIS guttatA" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "Bodianus pulchellus mappable:1" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "Cetopsorhamdia iheringi" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Bryconamericus iheringii" ; Times: 1
+	Query: "recordedby:CLS" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "DASYAtis americana" ; Times: 1
+	Query: "heptapterus" ; Times: 2
+	Query: "Crenicichla lepidota" ; Times: 1
+	Query: "Cheirodon interruptus" ; Times: 1
+	Query: "Harttia carvalhoi" ; Times: 1
+	Query: "Phenacogaster franciscoensis" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "Pseudoplatystoma tigrinum" ; Times: 1
+	Query: "phenacorhamdia" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 2
+	Query: "Hyphessobrycon eques" ; Times: 1
+	Query: "Pareiorhaphis garbei" ; Times: 1
+	Query: "Imparfinis minutus" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Parotocinclus maculicauda" ; Times: 1
+	Query: "Astyanax altiparanae" ; Times: 1
+	Query: "Hypostomus nigromaculatus" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 2
+	Query: "Hisonotus thayeri" ; Times: 1
+	Query: "Serrapinnus piaba" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 2
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "rHINObatos percellens" ; Times: 1
+	Query: "locality:Capim" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 2
+	Query: "astronotus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 2
+	Query: "Narcine bRASILIENSIS" ; Times: 2
+	Query: "Loricariichthys castaneus" ; Times: 1
+	Query: "Pseudopimelodus charus" ; Times: 1
+	Query: "Knodus moenkhausii" ; Times: 1
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "Lepidocharax burnsi" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "rhamdella" ; Times: 1
+	Query: "Loricariichthys derbyi" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Characidium zebra" ; Times: 1
+	Query: "Pygocentrus piraya" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "Prochilodus vimboides" ; Times: 1
+	Query: "Cyphocharax gilbert" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 2
+	Query: "Bodianus rufus mappable:1" ; Times: 1
+	Query: "Charax stenopterus" ; Times: 1
+	Query: "Tetragonopterus chalceus" ; Times: 1
+	Query: "Lophiosilurus alexandri" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+	Query: "Creagrutus britskii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1034 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys martinicus" ; Times: 2
+
+
+End of report.
