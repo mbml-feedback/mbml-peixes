@@ -1,0 +1,74 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 281
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 24
+	Country: United States ; Times: 6
+	Country: Rwanda ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-10 ; Times: 14
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-19 ; Times: 9
+	Date: 2019-09-03 ; Times: 10
+	Date: 2019-09-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Cichla kelberi mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "SUI" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "sui" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "Paralichthys brasiliensis" ; Times: 2
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Gymnachirus nudus mappable:1" ; Times: 1
+	Query: "locality:Piracicaba" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "specificepithet:malabaricus genus:hoplias year &gt;= 2016 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Ogcocephalus vespertilio mappable:1" ; Times: 1
+	Query: "Cichla piquiti mappable:1" ; Times: 4
+	Query: "jaguar" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "specificepithet:punctatus genus:prionotus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1073 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
