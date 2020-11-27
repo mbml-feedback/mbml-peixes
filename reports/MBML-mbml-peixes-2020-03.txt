@@ -1,0 +1,68 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Honduras ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 6
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Astronotus" ; Times: 1
+	Query: "Sparisoma tuiupiranga mappable:1" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "hippocampus reidi" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "Sparisoma rocha mappable:1" ; Times: 2
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 853 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Honduras ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chilodontidae" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "chilodus" ; Times: 1
+
+
+End of report.
