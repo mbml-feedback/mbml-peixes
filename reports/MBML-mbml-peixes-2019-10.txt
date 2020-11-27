@@ -1,0 +1,74 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: United Kingdom ; Times: 2
+	Country: New Zealand ; Times: 10
+	Country: Brazil ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 6
+	Date: 2019-10-21 ; Times: 9
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 10
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "CAI 2" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Cantherhines macrocerus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Atlantoraja castelnaui" ; Times: 2
+	Query: "SP 11608" ; Times: 1
+	Query: "Zapteryx brevirostris" ; Times: 2
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Cichla piquiti mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1308 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
