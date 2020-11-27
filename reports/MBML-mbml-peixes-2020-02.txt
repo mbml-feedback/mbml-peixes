@@ -1,0 +1,76 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 193
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: France ; Times: 26
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-02 ; Times: 25
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "scientificname:Mullus argentinae mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Pomadasys corvinaeformis mappable:1" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1023 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
