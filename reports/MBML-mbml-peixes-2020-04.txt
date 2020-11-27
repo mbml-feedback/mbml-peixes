@@ -1,0 +1,143 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 588
+Number of records retrieved in searches: 15721
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 567
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 4
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-03 ; Times: 81
+	Date: 2020-04-07 ; Times: 299
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-21 ; Times: 90
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-08 ; Times: 98
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus brasiliensis" ; Times: 3
+	Query: "Harttia kronei" ; Times: 2
+	Query: "Vandellia cirrhosa" ; Times: 2
+	Query: "Bryconops affinis" ; Times: 6
+	Query: "Neoplecostomus microps" ; Times: 6
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "Compsura heterura" ; Times: 3
+	Query: "tc 1897" ; Times: 3
+	Query: "Jupiaba polylepis" ; Times: 7
+	Query: "Pimelodella vittata" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Prochilodus argenteus" ; Times: 4
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "Neoplecostomus espiritosantensis" ; Times: 5
+	Query: "Sternopygus macrurus" ; Times: 8
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Microglanis leptostriatus" ; Times: 4
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Lycengraulis grossidens" ; Times: 6
+	Query: "Crenicichla lepidota" ; Times: 8
+	Query: "Hemigrammus marginatus" ; Times: 3
+	Query: "Piabina argentea" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Acestrorhynchus lacustris" ; Times: 9
+	Query: "Hypostomus affinis" ; Times: 6
+	Query: "Leporinus piau" ; Times: 3
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "Leporinus taeniatus" ; Times: 5
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Pellona flavipinnis" ; Times: 8
+	Query: "Prochilodus lineatus" ; Times: 4
+	Query: "Coptodon" ; Times: 11
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "Cetopsorhamdia iheringi" ; Times: 6
+	Query: "Apareiodon affinis" ; Times: 4
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Exocoetus volitans" ; Times: 5
+	Query: "Cheirodon interruptus" ; Times: 3
+	Query: "Phenacogaster franciscoensis" ; Times: 6
+	Query: "Myleus micans" ; Times: 4
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Pseudoplatystoma tigrinum" ; Times: 11
+	Query: "Serrapinnus piaba" ; Times: 3
+	Query: "Serrasalmus brandtii" ; Times: 6
+	Query: "locality:deserto" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 6
+	Query: "Oligosarcus argenteus" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Ancistrus multispinis" ; Times: 13
+	Query: "Hoplias malabaricus" ; Times: 11
+	Query: "Hyphessobrycon eques" ; Times: 6
+	Query: "Imparfinis minutus" ; Times: 15
+	Query: "Rhamdia quelen" ; Times: 14
+	Query: "Parotocinclus maculicauda" ; Times: 4
+	Query: "Parachromis managuensis" ; Times: 6
+	Query: "Serrasalmus maculatus" ; Times: 4
+	Query: "Steindachnerina elegans" ; Times: 4
+	Query: "Astyanax altiparanae" ; Times: 3
+	Query: "Hypostomus nigromaculatus" ; Times: 6
+	Query: "Hyphessobrycon guarani" ; Times: 4
+	Query: "Hisonotus thayeri" ; Times: 4
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "coptodon" ; Times: 1
+	Query: "Mimagoniates inequalis" ; Times: 6
+	Query: "Anchoviella lepidentostole" ; Times: 4
+	Query: "Loricariichthys castaneus" ; Times: 3
+	Query: "Pseudopimelodus charus" ; Times: 5
+	Query: "Knodus moenkhausii" ; Times: 6
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Lepidocharax burnsi" ; Times: 3
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 5
+	Query: "Loricariichthys derbyi" ; Times: 2
+	Query: "Bryconops caudomaculatus" ; Times: 6
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "Characidium zebra" ; Times: 6
+	Query: "specificepithet:Ruschii" ; Times: 3
+	Query: "Pygocentrus piraya" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Pygocentrus nattereri" ; Times: 11
+	Query: "Prochilodus vimboides" ; Times: 4
+	Query: "Mimagoniates microlepis" ; Times: 6
+	Query: "Cyphocharax gilbert" ; Times: 8
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Hypostomus francisci" ; Times: 6
+	Query: "Astyanax giton" ; Times: 6
+	Query: "Charax stenopterus" ; Times: 4
+	Query: "Tetragonopterus chalceus" ; Times: 8
+	Query: "Bryconamericus iheringii" ; Times: 6
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Lophiosilurus alexandri" ; Times: 10
+	Query: "Creagrutus britskii" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1171 download events in this period)
+Total number of records downloaded: 547
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Characidium" ; Times: 1
+
+
+End of report.
