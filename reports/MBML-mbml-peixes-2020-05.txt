@@ -1,0 +1,47 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 5
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-17 ; Times: 5
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mugil liza" ; Times: 1
+	Query: "guavina guavina" ; Times: 1
+	Query: "caraguata" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Santa Catarina&#34; country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1106 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
