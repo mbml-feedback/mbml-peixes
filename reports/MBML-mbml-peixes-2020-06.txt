@@ -1,0 +1,63 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 793
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 72
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 25
+	Date: 2020-06-15 ; Times: 12
+	Date: 2020-06-11 ; Times: 24
+	Date: 2020-06-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "specificepithet:stellifer genus:stellifer" ; Times: 2
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Harengula clupeola" ; Times: 1
+	Query: "odontoscion dentex" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Imparfinis minutus" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Chirocentrodon bleekerianus" ; Times: 2
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "parona signata" ; Times: 1
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Crenicichla lepidota" ; Times: 2
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 474 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
