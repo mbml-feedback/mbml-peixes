@@ -1,0 +1,86 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 883
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 48
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-02 ; Times: 45
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaphyropoma rodriguesi" ; Times: 2
+	Query: "Elops saurus" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "Carangoides bartholomaei" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 1
+	Query: "Cephalopholis fulva" ; Times: 2
+	Query: "Kyphosus sectatrix" ; Times: 2
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Clarias gariepinus" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 2
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 3
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Uraspis uraspis" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "Acanthurus mata" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "jaguar" ; Times: 3
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 4
+	Query: "Gobio gobio" ; Times: 4
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "scientificname:Gephyroberyx darwinii" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 842 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cope" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
