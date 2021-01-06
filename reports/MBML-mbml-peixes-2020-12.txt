@@ -1,0 +1,108 @@
+Report for Institution Code MBML, Resource mbml-peixes
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 863
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 36
+	Country: France ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 24
+	Date: 2020-12-30 ; Times: 4
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-14 ; Times: 10
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 15
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anchoviella lepidentostole" ; Times: 1
+	Query: "Steindachnerina elegans" ; Times: 1
+	Query: "Hyphessobrycon eques" ; Times: 1
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "scientificname:Sphoeroides spengleri" ; Times: 1
+	Query: "scientificname:Remora osteochir" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 2
+	Query: "scientificname:Chlorophthalmus agassizi" ; Times: 1
+	Query: "Hypostomus nigromaculatus" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 1
+	Query: "scientificname:Microstoma microstoma" ; Times: 1
+	Query: "scientificname:Helicolenus dactylopterus" ; Times: 3
+	Query: "scientificname:Rachycentron canadum" ; Times: 1
+	Query: "Astyanax altiparanae" ; Times: 1
+	Query: "scientificname:Exocoetus volitans" ; Times: 1
+	Query: "Leporinus copelandii" ; Times: 1
+	Query: "Pimelodus maculatus" ; Times: 1
+	Query: "scientificname:Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 4
+	Query: "Oligosarcus argenteus" ; Times: 1
+	Query: "scientificname:Scartella cristata" ; Times: 1
+	Query: "Bryconamericus iheringii" ; Times: 1
+	Query: "Anchoa lyolepis" ; Times: 1
+	Query: "Pimelodella vittata" ; Times: 1
+	Query: "Ctenogobius shufeldti" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "scientificname:Parablennius pilicornis" ; Times: 1
+	Query: "Prochilodus argenteus" ; Times: 1
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 2
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "Prochilodus vimboides" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "scientificname:Aluterus monoceros" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 1
+	Query: "Cyphocharax gilbert" ; Times: 1
+	Query: "scientificname:Balistes capriscus" ; Times: 2
+	Query: "Knodus moenkhausii" ; Times: 1
+	Query: "scientificname:Naucrates ductor" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "Pseudopimelodus charus" ; Times: 2
+	Query: "scientificname:Echeneis naucrates" ; Times: 1
+	Query: "scientificname:Remora remora" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 2
+	Query: "Hypostomus francisci" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "Astyanax giton" ; Times: 1
+	Query: "Piabina argentea" ; Times: 1
+	Query: "Lepidocharax burnsi" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Pygocentrus piraya" ; Times: 1
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "scientificname:Gephyroberyx darwinii" ; Times: 1
+	Query: "Imparfinis minutus" ; Times: 1
+	Query: "Hypostomus affinis" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "Lophiosilurus alexandri" ; Times: 1
+	Query: "scientificname:Caranx crysos" ; Times: 1
+	Query: "genus:Phalloptychus" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "Creagrutus britskii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 705 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
